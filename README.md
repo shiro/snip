@@ -26,11 +26,11 @@ $ cp -r recipes/react ~/.config/snip
 ```
 
 
-
 ## Prerequisites
 
 The following dependencies must be installed:
 
+- [zsh](https://www.zsh.org/)
 - [fzf](https://github.com/junegunn/fzf)
 - [jq](https://github.com/stedolan/jq)
 
