@@ -16,6 +16,16 @@ can accept a relative or absolute path for component generation:
 $ snip src/ExampleComponent
 ```
 
+## Using predefined recipes
+
+In order to use predefined recipes from this repository simply find the
+files/recipes you want to use and copy them to `~/.config/snip`.  
+For example:
+```
+$ cp -r recipes/react ~/.config/snip
+```
+
+
 
 ## Prerequisites
 
